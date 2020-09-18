@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hyunjee-kang/movie-app.git/precache-manifest.81e0f473e544174522976ecec1d89158.js"
+  "/hyunjee-kang/movie-app.git/precache-manifest.7be068c67d6f91a31f056c3b3eb21242.js"
 );
 
 self.addEventListener('message', (event) => {
