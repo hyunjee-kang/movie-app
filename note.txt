@@ -1,0 +1,15 @@
+### Git hub 연동하기 ###
+
+npm i gh-pages
+
+위 명령어를 통해 gh-pages 설치 후 package.json으로 이동
+homepage를 추가
+scripts에 deploy, predeploy 추가
+
+npm run deploy
+
+위 명령어를 실행
+실행순서: predeploy > build > deploy 
+
+위 과정을 통해 git hub에 published 되었음
+{username}.github.io/movie_app 이라고 치면 이 프로젝트가 실행됨
