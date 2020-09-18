@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hyunjee-kang.github.io/movie-app/static/css/main.82823c90.chunk.css",
-    "main.js": "/hyunjee-kang.github.io/movie-app/static/js/main.d87ce7f6.chunk.js",
-    "main.js.map": "/hyunjee-kang.github.io/movie-app/static/js/main.d87ce7f6.chunk.js.map",
-    "runtime-main.js": "/hyunjee-kang.github.io/movie-app/static/js/runtime-main.30d320cc.js",
-    "runtime-main.js.map": "/hyunjee-kang.github.io/movie-app/static/js/runtime-main.30d320cc.js.map",
-    "static/js/2.03729dac.chunk.js": "/hyunjee-kang.github.io/movie-app/static/js/2.03729dac.chunk.js",
-    "static/js/2.03729dac.chunk.js.map": "/hyunjee-kang.github.io/movie-app/static/js/2.03729dac.chunk.js.map",
-    "index.html": "/hyunjee-kang.github.io/movie-app/index.html",
-    "precache-manifest.8f139bc7216c539d39ddface05dff1c1.js": "/hyunjee-kang.github.io/movie-app/precache-manifest.8f139bc7216c539d39ddface05dff1c1.js",
-    "service-worker.js": "/hyunjee-kang.github.io/movie-app/service-worker.js",
-    "static/css/main.82823c90.chunk.css.map": "/hyunjee-kang.github.io/movie-app/static/css/main.82823c90.chunk.css.map",
-    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/hyunjee-kang.github.io/movie-app/static/js/2.03729dac.chunk.js.LICENSE.txt"
+    "main.css": "/movie-app/static/css/main.82823c90.chunk.css",
+    "main.js": "/movie-app/static/js/main.d87ce7f6.chunk.js",
+    "main.js.map": "/movie-app/static/js/main.d87ce7f6.chunk.js.map",
+    "runtime-main.js": "/movie-app/static/js/runtime-main.2be5c0aa.js",
+    "runtime-main.js.map": "/movie-app/static/js/runtime-main.2be5c0aa.js.map",
+    "static/js/2.03729dac.chunk.js": "/movie-app/static/js/2.03729dac.chunk.js",
+    "static/js/2.03729dac.chunk.js.map": "/movie-app/static/js/2.03729dac.chunk.js.map",
+    "index.html": "/movie-app/index.html",
+    "precache-manifest.3815b40b98e98f38f46dff3ca2f9c0a0.js": "/movie-app/precache-manifest.3815b40b98e98f38f46dff3ca2f9c0a0.js",
+    "service-worker.js": "/movie-app/service-worker.js",
+    "static/css/main.82823c90.chunk.css.map": "/movie-app/static/css/main.82823c90.chunk.css.map",
+    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/movie-app/static/js/2.03729dac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30d320cc.js",
+    "static/js/runtime-main.2be5c0aa.js",
     "static/js/2.03729dac.chunk.js",
     "static/css/main.82823c90.chunk.css",
     "static/js/main.d87ce7f6.chunk.js"
